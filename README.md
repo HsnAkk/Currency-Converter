@@ -1,4 +1,4 @@
-## Currency Changer with Alpha Vantage Api and CanvasJS Charts (HTML, CSS, JS, JQUERY)
+## Currency Converter with Alpha Vantage Api and CanvasJS Charts (HTML, CSS, JS, JQUERY)
 
 #### It gives currency rate, which is between selected currency pair. 
 #### It starts automatically with USD&EU pair currency rate and 5min chart.
